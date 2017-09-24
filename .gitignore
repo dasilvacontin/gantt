@@ -1,0 +1,15 @@
+# Build
+/bin
+/lib
+/dist
+
+# Node
+node_modules
+npm-debug.log
+
+# Coverage
+coverage
+
+# Other
+.envrc
+.vscode
